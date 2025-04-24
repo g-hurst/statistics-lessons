@@ -7,8 +7,7 @@ example problem with explinations throughout the solution.
 
 ## Content
 
-The topics that were touched upon in this repository are listed below based on the
-notebook:
+The topics that were touched upon in each notebook are listed below:
 
 * `rejection_sampling`
   * rejection sampling
